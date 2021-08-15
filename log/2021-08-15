@@ -57,3 +57,35 @@ cookie文件加载成功
 
 
 
+2021-08-15 18:43:56.226788
+历史定位签到模式
+单人签到模式
+当前IP：20.97.61.214,
+
+ 美国DXCTechnology
+
+系统时间：2021-08-15 18:44:08
+UTC时间：2021-08-15 19:44:07
+北京时间：2021-08-16 02:44:07
+北京时间与系统时间误差：7:59:58.794545
+2021-08-15 18:44:08.205513:2009104008签到开始
+cookie文件存在
+cookie文件加载成功
+NAME陈建奇
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME陈建奇
+定位 115.777541，30.415137，湖北省黄冈市
+{"status":0,"result":{"location":{"lng":115.78922225695895,"lat":30.418843631832844},"formatted_address":"湖北省黄冈市蕲春县","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"湖北省","city":"黄冈市","city_level":2,"district":"蕲春县","town":"","town_code":"","adcode":"421126","street":"","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":271}}
+province=%E6%B9%96%E5%8C%97%E7%9C%81&city=%E9%BB%84%E5%86%88%E5%B8%82&district=%E8%95%B2%E6%98%A5%E5%8E%BF&street=%E9%BB%84%E5%86%88%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B9%96%E5%8C%97%E7%9C%81%E9%BB%84%E5%86%88%E5%B8%82&sddlwz=&bprovince=%E6%B9%96%E5%8C%97%E7%9C%81&bcity=%E9%BB%84%E5%86%88%E5%B8%82&bdistrict=%E8%95%B2%E6%98%A5%E5%8E%BF&bstreet=%E9%BB%84%E5%86%88%E5%B8%82&sprovince=%E6%B9%96%E5%8C%97%E7%9C%81&scity=%E9%BB%84%E5%86%88%E5%B8%82&sdistrict=%E8%95%B2%E6%98%A5%E5%8E%BF&lng=115.777539&lat=30.415131&sfby=1
+签到成功
+2021-08-15 18:44:46.457342:2009104008签到结束
+陈建奇2009104008签到成功！
+2021-08-15 18:44:46.457366程序结束
+######################################################################
+
+
+
+
